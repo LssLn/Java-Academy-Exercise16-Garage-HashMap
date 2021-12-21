@@ -8,7 +8,7 @@ Si implementi una classe che modelli il garage sopradescritto offrendo le seguen
   <li> immissione di un nuovo veicolo</il>
   <li> estrazione dal garage del veicolo che occupa un determinato posto (ritornare l'istanza del veicolo stesso)</li>
   <li> stampa della situazione corrente dei posti nel garage veicolo: marca,anno,cilindrata; </li>
-<ol>
+</ol>
 <br>
 <ul>
   <li>auto:porte, alimentazione (diesel/benzina)</li>
